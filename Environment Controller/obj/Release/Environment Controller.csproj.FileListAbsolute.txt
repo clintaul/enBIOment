@@ -1,0 +1,13 @@
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Release\Environment Controller.exe.config
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Release\Environment Controller.exe
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Release\Environment Controller.pdb
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Release\Environment_Controller.MainForm.resources
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Release\Environment_Controller.Properties.Resources.resources
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Release\Environment Controller.csproj.GenerateResource.Cache
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Release\Environment Controller.exe
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Release\Environment Controller.pdb
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Release\MathNet.Filtering.dll
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Release\MathNet.Numerics.dll
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Release\MathNet.Filtering.xml
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Release\MathNet.Numerics.xml
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Release\Environment Controller.csprojResolveAssemblyReference.cache

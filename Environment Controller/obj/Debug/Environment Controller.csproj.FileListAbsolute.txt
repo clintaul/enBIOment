@@ -1,0 +1,19 @@
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Debug\Environment Controller.exe.config
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Debug\Environment Controller.exe
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Debug\Environment Controller.pdb
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Debug\Environment_Controller.Properties.Resources.resources
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Debug\Environment Controller.csproj.GenerateResource.Cache
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Debug\Environment Controller.exe
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Debug\Environment Controller.pdb
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Debug\Environment_Controller.MainForm.resources
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\obj\Debug\Environment Controller.csprojResolveAssemblyReference.cache
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Debug\MathNet.Filtering.dll
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Debug\MathNet.Numerics.dll
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Debug\MathNet.Filtering.xml
+C:\Users\clint\Documents\GA Tech\Environment Controller\Environment Controller\bin\Debug\MathNet.Numerics.xml
+C:\Users\clint\Documents\GitHub\Environment Controller\Environment Controller\bin\Debug\Environment Controller.exe.config
+C:\Users\clint\Documents\GitHub\Environment Controller\Environment Controller\obj\Debug\Environment Controller.exe
+C:\Users\clint\Documents\GitHub\Environment Controller\Environment Controller\obj\Debug\Environment Controller.pdb
+C:\Users\clint\Documents\GitHub\Environment Controller\enBIOment\Environment Controller\bin\Debug\Environment Controller.exe.config
+C:\Users\clint\Documents\GitHub\Environment Controller\enBIOment\Environment Controller\obj\Debug\Environment Controller.exe
+C:\Users\clint\Documents\GitHub\Environment Controller\enBIOment\Environment Controller\obj\Debug\Environment Controller.pdb
